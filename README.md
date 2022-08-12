@@ -6,7 +6,7 @@ For details see http://paulbourke.net/miscellaneous/correlate/
 
 ## Requirments
 
-- Python3 3.7.11
+- Python 3 3.7.11
 - NumPy 1.21.6
 - Matplotlib 3.3.0
 - ASE 3.19.2
